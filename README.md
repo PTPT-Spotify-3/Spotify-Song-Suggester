@@ -1,12 +1,8 @@
-# Project Name
-Add an image or screenshot of front-end (if applicable).
+# SPOTIFY SONG SUGGESTOR
 
 ## Project Description
-The purpose of this project is ______. (Describe the main goals of the project and potential impact. Limit to a short paragraph, 2-3 Sentences)
 
-### Team Members
-* Name #1 (github URL)
-* Name #2 (github URL)
+The Spotify Song Suggestor is an application which curates a playlist of recommended songs for a user based on their own liked Spotify songs. The app uses a nearest-neighbor classification model trained on a dataset of over 100,000 songs.
 
 ### Technologies and Methods Used
 * Python
@@ -15,18 +11,6 @@ The purpose of this project is ______. (Describe the main goals of the project a
 * Flask / FastAPI
 * TF-IDF
 * Logistic Regression
-* k-Nearest Neighbors
+* Nearest Neighbors
 * etc. 
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the group)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. Create Pipenv following these instructions...
-5. etc...
-
 
